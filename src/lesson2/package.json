@@ -1,0 +1,11 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.7",
+    "socket.io": "^3.0.5"
+  }
+}
